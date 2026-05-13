@@ -336,3 +336,27 @@ a:hover { text-decoration: underline; }
  .featured-article h2 { font-size: 1.5rem; }
  .article-header h1 { font-size: 1.75rem; }
 }
+/* Descriptor Band */
+.site-descriptor {
+  background: var(--green);
+  text-align: center;
+  padding: 10px 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+}
+
+.descriptor-label {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.85);
+  font-weight: 600;
+}
+
+.descriptor-text {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 400;
+}
