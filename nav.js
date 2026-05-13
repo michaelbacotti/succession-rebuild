@@ -4,7 +4,7 @@
  nav.innerHTML = [
  '<div class="container">',
  '<div class="nav-brand">',
- '<a href="/" class="nav-logo">Succession Holding LLC</a>',
+ '<a href="/" class="nav-wordmark">Succession Holding LLC</a>',
  '<span class="nav-tagline">Real estate insight for independent investors</span>',
  '</div>',
  '<nav class="main-nav">',
