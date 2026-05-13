@@ -3,7 +3,10 @@
  if (nav) {
  nav.innerHTML = [
  '<div class="container">',
+ '<div class="nav-brand">',
  '<a href="/" class="nav-logo">Succession Holding LLC</a>',
+ '<span class="nav-tagline">Real estate insight for independent investors</span>',
+ '</div>',
  '<nav class="main-nav">',
  '<ul>',
  '<li><a href="/">Home</a></li>',
