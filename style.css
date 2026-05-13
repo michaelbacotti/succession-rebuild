@@ -306,6 +306,28 @@ a:hover { text-decoration: underline; }
  padding: 2rem 0;
 }
 
+/* Article hero image */
+.article-hero {
+ margin: 1.5rem 0 2rem;
+ border-radius: 4px;
+ overflow: hidden;
+}
+.article-hero img {
+ width: 100%;
+ height: auto;
+ display: block;
+}
+
+/* Footer nav */
+.footer-nav a {
+ color: var(--text-light);
+ font-size: 0.85rem;
+ letter-spacing: 0.04em;
+}
+.footer-nav a:hover {
+ color: var(--green);
+}
+
 /* Responsive */
 @media (max-width: 768px) {
  .home-grid { grid-template-columns: 1fr; }
