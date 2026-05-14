@@ -280,6 +280,26 @@ a:hover { text-decoration: underline; }
 
 .sidebar-widget li:last-child { border-bottom: none; }
 
+.sidebar-meta {
+ font-size: 10px;
+ font-weight: 600;
+ letter-spacing: 0.1em;
+ text-transform: uppercase;
+ color: #888;
+ margin: 0 0 3px 0;
+}
+
+.sidebar-title {
+ font-size: 14px;
+ color: #2d5a3d;
+ text-decoration: none;
+ line-height: 1.4;
+ display: block;
+ margin-bottom: 16px;
+}
+
+.sidebar-title:hover { text-decoration: underline; }
+
 /* Section header */
 .section-header {
  border-bottom: 2px solid var(--green);
