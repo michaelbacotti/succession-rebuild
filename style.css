@@ -374,11 +374,25 @@ a:hover { text-decoration: underline; }
  margin: 1.5rem 0 2rem;
  border-radius: 4px;
  overflow: hidden;
+ width: 100%;
+ aspect-ratio: 16 / 9;
 }
 .article-hero img {
  width: 100%;
- height: auto;
+ height: 100%;
+ object-fit: cover;
+ object-position: center;
  display: block;
+}
+
+/* Featured image on homepage */
+.featured-image {
+ width: 100%;
+ aspect-ratio: 16 / 9;
+ object-fit: cover;
+ object-position: center;
+ display: block;
+ margin: 16px 0 20px 0;
 }
 
 /* Footer nav */
