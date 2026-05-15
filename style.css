@@ -487,3 +487,41 @@ a:hover { text-decoration: underline; }
 .share-btn:hover { opacity: 0.7; }
 
 }
+/* Section cards — grid-specific overrides */
+.section-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 24px;
+  align-items: stretch;
+}
+.section-cards .article-card {
+  border-bottom: none !important;
+  padding: 1.5rem !important;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.section-cards .article-card .card-meta {
+  margin: 0 !important;
+  padding-top: 0 !important;
+  font-size: 0.75rem;
+  color: var(--text-light);
+  letter-spacing: 0.04em;
+}
+.section-cards .article-card h3.card-title {
+  margin: 0 !important;
+  padding-top: 0 !important;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.section-cards .article-card p.card-summary {
+  margin: 0 !important;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+.section-cards .article-card .card-divider { display: none; }
+@media (max-width: 768px) {
+  .section-cards { grid-template-columns: 1fr; }
+}
