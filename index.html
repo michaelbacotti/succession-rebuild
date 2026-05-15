@@ -13,15 +13,19 @@
    grid-template-columns: repeat(3, 1fr);
    gap: 24px;
    margin-top: 24px;
-   align-items: start;
+   align-items: stretch;
   }
   .section-cards .article-card {
-   border-bottom: none;
-   padding-bottom: 0;
+   border-bottom: 1px solid var(--border);
+   padding: 1.5rem;
+   display: flex;
+   flex-direction: column;
+   gap: 0.5rem;
   }
-  .section-cards .article-card .card-divider {
-   display: none;
-  }
+  .section-cards .article-card .card-meta { margin-top: 0; }
+  .section-cards .article-card .card-title { margin: 0; }
+  .section-cards .article-card .card-summary { margin: 0; }
+  .section-cards .article-card .card-divider { display: none; }
   .sidebar-preview {
    font-size: 12px;
    color: #777;
