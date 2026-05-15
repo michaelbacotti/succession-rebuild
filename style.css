@@ -525,3 +525,16 @@ a:hover { text-decoration: underline; }
 @media (max-width: 768px) {
   .section-cards { grid-template-columns: 1fr; }
 }
+
+/* Sidebar preview text — match main content font size */
+.sidebar-preview {
+  font-size: 0.875rem !important;
+  color: var(--text-light) !important;
+  line-height: 1.6 !important;
+  margin: 4px 0 0 !important;
+}
+.sidebar-meta {
+  font-size: 0.75rem;
+  color: #777;
+  letter-spacing: 0.04em;
+}
