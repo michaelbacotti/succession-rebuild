@@ -223,7 +223,6 @@ a:hover { text-decoration: underline; }
  padding: 1.5rem 0;
 }
 
-.section-cards .article-card:first-child { padding-top: 0; }
 
 .card-category {
  display: inline-block;
@@ -480,5 +479,11 @@ a:hover { text-decoration: underline; }
  .main-nav ul { gap: 1rem; }
  .featured-article h2 { font-size: 1.5rem; }
  .article-header h1 { font-size: 1.75rem; }
-}
 
+/* Share Bar */
+.share-bar { display: flex; align-items: center; gap: 10px; margin: 40px 0 32px; padding: 16px 0; border-top: 1px solid #e8e4dd; border-bottom: 1px solid #e8e4dd; }
+.share-label { font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-right: 4px; }
+.share-btn { display: inline-flex; align-items: center; gap: 5px; padding: 7px 12px; border-radius: 4px; font-size: 12px; text-decoration: none; border: 1px solid #2d5a3d; background: transparent; cursor: pointer; font-family: inherit; color: #2d5a3d; transition: opacity 0.15s; }
+.share-btn:hover { opacity: 0.7; }
+
+}
