@@ -22,14 +22,17 @@
    flex-direction: column;
    gap: 0.5rem;
   }
-  .section-cards .article-card .card-meta { margin-top: 0; }
+  .section-cards .article-card .card-meta { margin: 0; padding-top: 0; }
   .section-cards .article-card .card-title { margin: 0; }
   .section-cards .article-card .card-summary { margin: 0; }
+  .section-cards .article-card p.card-meta { font-size: 0.75rem; color: var(--text-light); letter-spacing: 0.04em; }
+  .section-cards .article-card h3.card-title { font-size: 1rem; font-weight: 600; line-height: 1.4; }
+  .section-cards .article-card p.card-summary { font-size: 0.875rem; line-height: 1.6; }
   .section-cards .article-card .card-divider { display: none; }
   .sidebar-preview {
-   font-size: 12px;
-   color: #777;
-   line-height: 1.5;
+   font-size: 0.875rem;
+   color: var(--text-light);
+   line-height: 1.6;
    margin: 4px 0 0;
   }
   @media (max-width: 768px) {
