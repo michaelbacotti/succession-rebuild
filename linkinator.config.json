@@ -1,0 +1,16 @@
+{
+  "urls": [
+    "https://www.successionholdingllc.com",
+    "https://www.successionholdingllc.com/market-analysis",
+    "https://www.successionholdingllc.com/about",
+    "https://www.successionholdingllc.com/contact",
+    "https://www.successionholdingllc.com/investing",
+    "https://www.successionholdingllc.com/education",
+    "https://www.successionholdingllc.com/privacy",
+    "https://www.successionholdingllc.com/disclaimer",
+    "https://www.successionholdingllc.com/articles"
+  ],
+  "concurrency": 5,
+  "backlog": 10,
+  "checks": ["internal", "fragment"]
+}
