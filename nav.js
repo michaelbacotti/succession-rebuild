@@ -11,7 +11,7 @@
    ' <a href="/" class="top-wordmark">Succession Holding LLC</a>',
    ' <span class="top-tagline">Real estate insight for independent investors</span>',
    ' <div class="top-links">',
-   '  <a href="/contact.html" class="top-contact">Contact</a>',
+   '  <a href="/contact" class="top-contact">Contact</a>',
    ' </div>',
    '</nav>'
   ].join('\n');
@@ -24,10 +24,10 @@
    '<div class="tab-bar">',
    ' <div class="tab-bar-inner">',
    '  <a href="/">Home</a>',
-   '  <a href="/investing.html">Investing</a>',
-   '  <a href="/market-analysis.html">Market Analysis</a>',
-   '  <a href="/education.html">Education</a>',
-   '  <a href="/about.html">About</a>',
+   '  <a href="/investing">Investing</a>',
+   '  <a href="/market-analysis">Market Analysis</a>',
+   '  <a href="/education">Education</a>',
+   '  <a href="/about">About</a>',
    ' </div>',
    '</div>'
   ].join('\n');
@@ -41,7 +41,7 @@
   if (href === path || (href !== '/' && path.startsWith(href))) {
    tab.classList.add('active');
   }
-  if (href === '/' && (path === '/' || path === '/index.html')) {
+  if (href === '/' && (path === '/' || path === '/index')) {
    tab.classList.add('active');
   }
  });
