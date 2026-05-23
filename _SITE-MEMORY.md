@@ -3,6 +3,7 @@
 ## Identity
 - Entity: Succession Holding LLC (real estate education publication)
 - Purpose: Independent real estate education — investing, market analysis, financing, property management
+- Live URL: successionholdingllc.com (Cloudflare Pages)
 - Repo: github.com/michaelbacotti/succession-rebuild
 - Architecture: Flat HTML — see skills/website-flat-html.md
 
