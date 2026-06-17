@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated: 2026-06-06 by generate_sitemap.py -->
+<!-- Generated: 2026-06-17 by generate_sitemap.py -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://successionholdingllc.com/</loc>
@@ -153,6 +153,11 @@
   </url>
   <url>
     <loc>https://successionholdingllc.com/articles/2026-06-06-small-multifamily-deal-analysis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://successionholdingllc.com/articles/2026-06-17-fbi-vacant-property-warning/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
