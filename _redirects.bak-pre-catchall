@@ -58,15 +58,3 @@
 /articles/2026-05-22-car-wash-real-estate /articles/2026-05-22-car-wash-real-estate/ 301
 /articles/2026-06-06-small-multifamily-deal-analysis /articles/2026-06-06-small-multifamily-deal-analysis/ 301
 /articles/2026-06-17-fbi-vacant-property-warning /articles/2026-06-17-fbi-vacant-property-warning/ 301
-
-# ── Catch-all: any *.html inside a section → section listing
-# CF Pages permissive default serves the closest matching index.html for unknown paths
-# (e.g., /articles/any-slug.html returns articles/index.html content). This creates fake
-# URLs that all serve the same listing page, triggering "Alternate page with proper
-# canonical tag" failures in GSC. These rules force 301 to the canonical section URL.
-/articles/*.html /articles/ 301
-/education/*.html /education/ 301
-/investing/*.html /investing/ 301
-/market-analysis/*.html /market-analysis/ 301
-
-# Defensive: any other section/slug.html → /section/
