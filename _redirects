@@ -15,3 +15,46 @@
 /privacy.html /privacy/ 301
 /terms.html /terms/ 301
 /investing.html /investing/ 301
+
+# ── No-slash → slash redirects (301 permanent)
+# Google treats 308 redirects as 'Page with redirect' = not indexed.
+# 301 permanent tells Google the URL has moved permanently.
+# Auto-generated 2026-07-03 from sitemap.xml.
+
+# Top-level pages
+/about /about/ 301
+/articles /articles/ 301
+/contact /contact/ 301
+/disclaimer /disclaimer/ 301
+/forecast /forecast/ 301
+/privacy /privacy/ 301
+/terms /terms/ 301
+/investing /investing/ 301
+/real-estate-investing /real-estate-investing/ 301
+/real-estate-financing /real-estate-financing/ 301
+/news /news/ 301
+/education /education/ 301
+
+# Nested pages
+/articles/2026-04-29-first-investment-property-guide /articles/2026-04-29-first-investment-property-guide/ 301
+/articles/2026-04-30-reading-a-rent-roll /articles/2026-04-30-reading-a-rent-roll/ 301
+/articles/2026-05-01-property-taxes-and-returns /articles/2026-05-01-property-taxes-and-returns/ 301
+/articles/2026-05-02-single-family-vs-multi-family /articles/2026-05-02-single-family-vs-multi-family/ 301
+/articles/2026-05-03-understanding-noi /articles/2026-05-03-understanding-noi/ 301
+/articles/2026-05-04-first-investment-property /articles/2026-05-04-first-investment-property/ 301
+/articles/2026-05-04-what-is-a-cap-rate /articles/2026-05-04-what-is-a-cap-rate/ 301
+/articles/2026-05-05-how-to-analyze-rental-property /articles/2026-05-05-how-to-analyze-rental-property/ 301
+/articles/2026-05-05-leveraging-equity /articles/2026-05-05-leveraging-equity/ 301
+/articles/2026-05-06-landlord-vs-tenant-markets /articles/2026-05-06-landlord-vs-tenant-markets/ 301
+/articles/2026-05-06-rental-market-landscape /articles/2026-05-06-rental-market-landscape/ 301
+/articles/2026-05-07-property-valuation-methods /articles/2026-05-07-property-valuation-methods/ 301
+/articles/2026-05-08-commercial-vs-residential /articles/2026-05-08-commercial-vs-residential/ 301
+/articles/2026-05-09-mortgage-financing-basics /articles/2026-05-09-mortgage-financing-basics/ 301
+/articles/2026-05-10-cap-rates-explained /articles/2026-05-10-cap-rates-explained/ 301
+/articles/2026-05-11-1031-exchange-guide /articles/2026-05-11-1031-exchange-guide/ 301
+/articles/2026-05-12-multi-family-outlook /articles/2026-05-12-multi-family-outlook/ 301
+/articles/2026-05-12-suburban-housing-trends /articles/2026-05-12-suburban-housing-trends/ 301
+/articles/2026-05-13-corporate-housing-ban /articles/2026-05-13-corporate-housing-ban/ 301
+/articles/2026-05-22-car-wash-real-estate /articles/2026-05-22-car-wash-real-estate/ 301
+/articles/2026-06-06-small-multifamily-deal-analysis /articles/2026-06-06-small-multifamily-deal-analysis/ 301
+/articles/2026-06-17-fbi-vacant-property-warning /articles/2026-06-17-fbi-vacant-property-warning/ 301
