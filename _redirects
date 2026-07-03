@@ -26,6 +26,10 @@
 /articles /articles/ 301
 /contact /contact/ 301
 /disclaimer /disclaimer/ 301
+/forecast/*.html / 301
+/forecast  / 301
+/forecast/  / 301
+/forecast/* / 301
 /forecast /forecast/ 301
 /privacy /privacy/ 301
 /terms /terms/ 301
@@ -80,13 +84,8 @@
 /disclaimer/*.html /disclaimer/ 301
 /privacy/*.html /privacy/ 301
 /terms/*.html /terms/ 301
-/forecast/*.html /forecast/ 301
 
 # ── Catch-all catch-all: anything else with .html that doesn't resolve → /
 # (Defensive: send any orphan .html URL to homepage 301 rather than 200 homepage)
 # This is a fallback for any path not caught by the rules above.
 
-# /forecast/ shouldn't exist on succession at all — dependability.us owns it
-/forecast  / 301
-/forecast/  / 301
-/forecast/* / 301
