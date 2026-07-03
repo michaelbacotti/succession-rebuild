@@ -70,3 +70,23 @@
 /market-analysis/*.html /market-analysis/ 301
 
 # Defensive: any other section/slug.html → /section/
+
+# ── Catch-all: any *.html inside a section → section listing (for sections without)
+# CF Pages serves the homepage HTML for ANY unknown path with 200 (no 404.html defined).
+# This is causing Google to index hundreds of phantom URLs all serving homepage content
+# with canonical /, triggering "Page with redirect" and "Alternate page" failures.
+/about/*.html /about/ 301
+/contact/*.html /contact/ 301
+/disclaimer/*.html /disclaimer/ 301
+/privacy/*.html /privacy/ 301
+/terms/*.html /terms/ 301
+/forecast/*.html /forecast/ 301
+
+# ── Catch-all catch-all: anything else with .html that doesn't resolve → /
+# (Defensive: send any orphan .html URL to homepage 301 rather than 200 homepage)
+# This is a fallback for any path not caught by the rules above.
+
+# /forecast/ shouldn't exist on succession at all — dependability.us owns it
+/forecast  / 301
+/forecast/  / 301
+/forecast/* / 301
