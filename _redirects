@@ -15,6 +15,8 @@
 /privacy.html /privacy/ 301
 /terms.html /terms/ 301
 /investing.html /investing/ 301
+/education.html /education/ 301
+/market-analysis.html /market-analysis/ 301
 
 # ── No-slash → slash redirects (301 permanent)
 # Google treats 308 redirects as 'Page with redirect' = not indexed.
