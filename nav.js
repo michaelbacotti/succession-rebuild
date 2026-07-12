@@ -27,6 +27,7 @@
    '  <a href="/investing">Investing</a>',
    '  <a href="/market-analysis">Market Analysis</a>',
    '  <a href="/education">Education</a>',
+   '  <a href="/newsletters">Daily Brief</a>',
    '  <a href="/about">About</a>',
    ' </div>',
    '</div>'

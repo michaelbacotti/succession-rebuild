@@ -19,11 +19,13 @@ STATIC_SECTIONS = [
     ("education", 0.7, "monthly"),
     ("investing", 0.9, "weekly"),
     ("market-analysis", 0.9, "weekly"),
+    ("newsletters", 0.9, "daily"),  # Daily Brief — 6am ET, Mike 2026-07-12
     ("privacy", 0.5, "monthly"),
     ("terms", 0.5, "monthly"),
 ]
 
 ARTICLES_DIR = os.path.join(WEBSITE_DIR, "articles")
+NEWSLETTERS_DIR = os.path.join(WEBSITE_DIR, "newsletters")
 
 def scan_articles():
     """Find all article subdirectories that contain an index.html."""
@@ -36,6 +38,18 @@ def scan_articles():
             if name != "index.html":  # skip the articles index page subdirectory
                 articles.append(name)
     return articles
+
+def scan_newsletters():
+    """Find all newsletter issues — subdirectories of newsletters/ with index.html."""
+    issues = []
+    if not os.path.isdir(NEWSLETTERS_DIR):
+        return issues
+    for name in sorted(os.listdir(NEWSLETTERS_DIR)):
+        issue_path = os.path.join(NEWSLETTERS_DIR, name)
+        if os.path.isdir(issue_path) and os.path.isfile(os.path.join(issue_path, "index.html")):
+            if name != "index.html":
+                issues.append(name)
+    return issues
 
 def generate_sitemap():
     urls = []
@@ -71,6 +85,14 @@ def generate_sitemap():
         urls.append({
             "loc": f"{DOMAIN}/articles/{slug}/",
             "priority": "0.7",
+            "changefreq": "monthly",
+        })
+
+    # Newsletter issues — daily cadence; each issue contributes a page
+    for slug in scan_newsletters():
+        urls.append({
+            "loc": f"{DOMAIN}/newsletters/{slug}/",
+            "priority": "0.6",
             "changefreq": "monthly",
         })
 
