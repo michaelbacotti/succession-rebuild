@@ -9,7 +9,7 @@
  '<a href="/about">About</a>',
  '</nav>',
  '<p>&copy; 2026 Succession Holding LLC. All rights reserved.</p>',
- '<p>This site is for educational purposes only. Not financial advice. Consult a licensed professional before making investment decisions.</p>',
+ '<p>This site is for educational purposes only. Not financial advice. tredey.com is operated by Succession Holding LLC. Consult a licensed professional before making investment decisions.</p>',
  '</div>'
  ].join('\n');
  }
