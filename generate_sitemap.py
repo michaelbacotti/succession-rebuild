@@ -51,14 +51,24 @@ def scan_newsletters():
                 issues.append(name)
     return issues
 
+def file_mtime(path):
+    """Return ISO date string of file's last modification time."""
+    if os.path.isfile(path):
+        return datetime.fromtimestamp(os.path.getmtime(path)).strftime("%Y-%m-%d")
+    return datetime.now().strftime("%Y-%m-%d")
+
+
 def generate_sitemap():
     urls = []
+    today = datetime.now().strftime("%Y-%m-%d")
 
     # Homepage
+    home_path = os.path.join(WEBSITE_DIR, "index.html")
     urls.append({
         "loc": f"{DOMAIN}/",
         "priority": "1.0",
         "changefreq": "weekly",
+        "lastmod": file_mtime(home_path),
     })
 
     # Static section pages
@@ -69,6 +79,7 @@ def generate_sitemap():
                 "loc": f"{DOMAIN}/{section}/",
                 "priority": str(priority),
                 "changefreq": freq,
+                "lastmod": file_mtime(section_path),
             })
 
     # Articles listing (if articles/index.html exists)
@@ -78,26 +89,30 @@ def generate_sitemap():
             "loc": f"{DOMAIN}/articles/",
             "priority": "0.9",
             "changefreq": "weekly",
+            "lastmod": file_mtime(articles_listing),
         })
 
     # Individual articles
     for slug in scan_articles():
+        article_path = os.path.join(ARTICLES_DIR, slug, "index.html")
         urls.append({
             "loc": f"{DOMAIN}/articles/{slug}/",
             "priority": "0.7",
             "changefreq": "monthly",
+            "lastmod": file_mtime(article_path),
         })
 
     # Newsletter issues — daily cadence; each issue contributes a page
     for slug in scan_newsletters():
+        issue_path = os.path.join(NEWSLETTERS_DIR, slug, "index.html")
         urls.append({
             "loc": f"{DOMAIN}/newsletters/{slug}/",
             "priority": "0.6",
             "changefreq": "monthly",
+            "lastmod": file_mtime(issue_path),
         })
 
     # Build XML
-    today = datetime.now().strftime("%Y-%m-%d")
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         f'<!-- Generated: {today} by generate_sitemap.py -->',
@@ -106,6 +121,7 @@ def generate_sitemap():
     for url in urls:
         lines.append("  <url>")
         lines.append(f"    <loc>{url['loc']}</loc>")
+        lines.append(f"    <lastmod>{url['lastmod']}</lastmod>")
         lines.append(f"    <changefreq>{url['changefreq']}</changefreq>")
         lines.append(f"    <priority>{url['priority']}</priority>")
         lines.append("  </url>")
