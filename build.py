@@ -235,7 +235,7 @@ def render_issue_page(meta, body_html, slug, date_str):
 
  <div style="margin:2rem 0;padding:.75rem;background:var(--surface);border-radius:var(--radius);text-align:center;">
   <div style="font-size:0.7rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#888;margin-bottom:8px;">Advertisement</div>
-  <ins class="adsbygoogle" style="display:block" data-ad-client="{AD_CLIENT}" data-ad-slot="{AD_SLOT_RESPONSIVE}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{AD_CLIENT}" data-ad-slot="{AD_SLOT_300x250}" data-ad-format="rectangle" style="display:inline-block;width:300px;height:250px;"></ins>
  </div>
  <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
 
