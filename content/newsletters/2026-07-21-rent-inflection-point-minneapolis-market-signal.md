@@ -1,0 +1,59 @@
+---
+title: "Rents Hit an Inflection Point — What Minneapolis Tells Independent Owners"
+author: "Succession Editorial"
+date: 2026-07-21
+issue_type: "market-signal"
+summary: "The national vacancy index just fell for the first time since late 2021, and Q2 2026 absorption came in 8 percent above Q2 2025. The headline says the rental market is turning. Minneapolis's +2.6 percent rent growth tells you what the turn actually looks like at the zip-code level."
+description: "The Succession Daily Brief for July 21, 2026: the national rental market hit its first vacancy decline since 2021 in June, with Q2 2026 net absorption of 124,600 units per Cushman & Wakefield. Why Minneapolis at +2.6 percent YoY rent is the cleanest read on what that inflection looks like for independent owners, and one action to take before your next renewal."
+featured_image: ""
+---
+
+The national rental market hit its first vacancy decline since late 2021 in June, and Q2 2026 net absorption came in 8 percent above Q2 2025. The headlines will tell you the rental market is turning. The headline is true. It is also incomplete, because the turn is not happening the same way in every zip code, and the gap between the markets that are tightening and the markets that are still bleeding is wider right now than it has been at any point in the last three years. What follows is the market signal worth underwriting to this week, why Minneapolis is the cleanest read on what is actually changing, and one specific action to take before your next renewal conversation.
+
+## 1. Today's Lens — The Inflection Is Real, but It Is Not Even
+
+There are three numbers that tell the same story from three different sources this month. Read them together, and the picture is unambiguous: the multifamily market is past its worst.
+
+The first number is the national multifamily vacancy index. [Apartment List's June 2026 report](https://www.apartmentlist.com/research/national-rent-data) puts it at 7.2 percent, down from a February peak of 7.3 percent. That is the first time the index has fallen since late 2021, which is the earliest point in Apartment List's measurement history. Three and a half years of vacancy increases, and the index finally ticked down. The trend line is more important than the magnitude — 7.2 is still elevated relative to the long-run average, and the decline is modest. But the direction is the news.
+
+The second number is national rent growth. The median monthly rent ticked up 0.4 percent month-over-month in June, the fifth consecutive monthly increase. The year-over-year figure is still negative at minus 1.2 percent, but it is ticking up: the April reading was minus 1.6 percent, which matched a record low in Apartment List's history going back to 2017. Two straight months of improvement at the bottom of the year-over-year curve is the kind of inflection pattern that, if it holds, flips the YoY to positive by Q4.
+
+The third number is net absorption. [Cushman & Wakefield's Q2 2026 U.S. Multifamily MarketBeat](https://www.cushmanwakefield.com/en/united-states/insights/us-marketbeats/us-multifamily-marketbeat) reported 124,600 units of net absorption in Q2 2026, up from 83,500 in Q1 2026 and 8 percent above Q2 2025. That is the strongest demand quarter since mid-2024, and it brings year-to-date absorption to a level that finally matches the elevated 2024 delivery pipeline. The new supply that hit the market between 2023 and 2025 is being worked off. For the first time in this cycle, lease-ups are outpacing new deliveries.
+
+[Apartments.com's Q2 2026 RentPulse Index](https://www.apartments.com/blog/rentpulse-index) confirms the pattern: "the second quarter of 2026 marks the first period since the fall of 2021 that lease-ups outpace new apartment supply." Three independent primary sources, three different methodologies, same directional read.
+
+So the macro story is clear. The rental market is past its trough. The construction cycle that pushed vacancy to a record is being absorbed. Demand is reaccelerating.
+
+Now the part the headline is missing.
+
+Of the 56 large metropolitan areas in Apartment List's June 2026 data set, 30 still have year-over-year rent declines. The national minus 1.2 percent YoY masks a much more polarized reality. San Antonio at minus 5.0 percent YoY is now the worst performer among large metros, displacing Austin at minus 4.3 percent. Denver, Phoenix, Tampa, and Nashville round out the same soft cluster. The pattern is geographic, not random: the Sun Belt and Mountain West, the markets that built the most multifamily between 2022 and 2024, are still bleeding rents. The Northeast, the Midwest, and the Pacific Coast are where rents are actually growing. San Francisco at plus 7.4 percent YoY and San Jose at plus 6.1 percent lead the table; Milwaukee, Chicago, and Minneapolis hold positive territory too.
+
+The implication for an independent owner with a portfolio spread across markets, or with one market under evaluation for an acquisition, is that the national headline is now actively misleading. A "the rental market is turning" framing implies a uniform turn. The data does not support that read. The market is bifurcating, and the bifurcation is widening.
+
+[CBRE's 2026 U.S. Real Estate Market Outlook](https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/multifamily) flagged this exact pattern six months ago: multifamily vacancy is stabilizing nationally, but year-over-year rent growth is expected to lag pre-pandemic levels due to economic headwinds and the large amount of new supply still available for lease, particularly in the Southeast, South Central, and Mountain regions. The June data confirms CBRE's regional call. What CBRE did not say, but the data implies, is that the bifurcation is now durable enough that it changes the underwriting assumption for every market your portfolio touches.
+
+That is the lens for today. The market is past the worst of the post-2022 correction. The market is also not recovering uniformly. The work for the next six months is figuring out which side of the bifurcation your properties are on, and adjusting the underwriting accordingly.
+
+## 2. One Market, One Metric — Minneapolis at +2.6% YoY
+
+The cleanest read on what an inflection-point market actually looks like at the zip-code level is Minneapolis right now. [Apartment List's July 2026 Minneapolis rent report](https://www.apartmentlist.com/rent-report/mn/minneapolis) puts the city-wide median rent at $1,456, up 0.5 percent month-over-month and 2.6 percent year-over-year. That is a positive rent-growth market inside a still-cautious national cycle, which makes Minneapolis a useful case study for what tightening looks like when it actually arrives.
+
+The Minneapolis story is not just the rent number. It is what is driving the rent number. Three structural factors are at work, and all three are replicable patterns worth understanding for any independent owner evaluating a market outside the Sun Belt.
+
+The first factor is the headquarters economy. Minneapolis is home to a concentration of Fortune 500 corporate headquarters — Target, UnitedHealth Group, 3M, U.S. Bancorp, General Mills — that pays above-median wages relative to the cost of living. That wage floor does not produce the +7.4 percent rent spikes that the Bay Area's AI-economy jobs produce, but it does produce a stable renter base with rising real incomes. [RentCafé's Q1 2026 renter interest rankings](https://www.bizjournals.com/twincities/news/2026/06/10/minneapolis-tops-national-list-renter-interest.html) put Minneapolis at the top of the national list for renter interest, up from number 3 in the prior quarter. Renter interest and rent growth are not the same thing, but the relationship is consistent: when renters compete for the same fixed supply, both move.
+
+The second factor is constrained supply. Minneapolis-St. Paul added multifamily units in 2024 and 2025, but at a much lower pace than Austin, Phoenix, or Nashville. [Marcus & Millichap's 2026 Minneapolis-St. Paul multifamily forecast](https://www.marcusmillichap.com/research/market-report/minneapolis/minneapolis-st-paul-2026-investment-forecast-multifamily-market-report) projects net absorption to return to its long-run average in 2026 amid slower population gains and a softer labor market, which sounds cautious until you read the second clause: rent growth should ease modestly, leaving the Twin Cities "firmly positioned among the Midwest's highest-rent markets." The forecast is for the Twin Cities to stay at the top of the Midwest rent table, even in a softening scenario. [Northmarq's Q1 2026 Minneapolis-St. Paul report](https://www.northmarq.com/insights/insights/rents-continue-gain-ground-minneapolis-st-paul-multifamily-market-q1-2026) made the same call: multifamily rent growth in Minneapolis-St. Paul remained elevated in Q1 2026, and the supply pipeline is not positioned to overwhelm that growth in 2026.
+
+The third factor is relative affordability. Minneapolis rents grew 2.6 percent YoY to $1,456 citywide, which is roughly 5 percent above the national median of $1,385. That premium is small enough to keep Minneapolis competitive with Sun Belt metros that are still cutting rents to fill vacant units. For an independent owner thinking about the acquisition pipeline: a market where rents are still growing and where the affordability gap versus coastal markets is widening is a market where a small landlord's acquisitions are likely to underwrite forward better than a market where rents are being cut to chase occupancy.
+
+The implication for an independent owner with Minneapolis exposure is direct: hold rent at next renewal. The market supports a 2 to 3 percent renewal increase on a stabilized tenant. For an independent owner evaluating Minneapolis as an acquisition market, the implication is that the underwriting assumption should use a forward rent growth in the 2 to 3 percent range, not the national minus 1.2 percent.
+
+The implication for an independent owner in a Sun Belt market is the inverse. The national headline is not your headline. If your zip is in the 30-metro declining cluster, your acquisition underwriting has to use a flat-to-negative rent growth assumption for the next 12 to 18 months, regardless of what the national narrative says. If your zip is in the positive-growth Midwest or Pacific Coast cluster, the inflection is real for you, and you can underwrite to it.
+
+## 3. Today's 5-Minute Action — Pull Your Zip's YoY Rent Change
+
+Before your next tenant renewal conversation, take five minutes and pull the year-over-year rent change for your specific zip or metro. Do not rely on the national headline. The bifurcation is wide enough now that the national number will mislead you in either direction.
+
+The fastest path is [Apartment List's metro and city rent report page](https://www.apartmentlist.com/research/category/data-rent-estimates). Enter your metro or city, scroll to the year-over-year chart, and note the current reading. If your metro is in the negative half of the table, the action for your next renewal is to hold rent flat, offer a multi-year lease at a modest premium, and avoid the temptation to push for a market-rate increase that your local supply pipeline will not support. If your metro is in the positive half of the table, model a 2 to 3 percent renewal increase on a stabilized tenant and back-test the NOI impact on your next refi assumption.
+
+That single five-minute check is the difference between an owner whose portfolio is correctly positioned for the rest of 2026 and an owner who is underwriting to a national headline that no longer applies.
