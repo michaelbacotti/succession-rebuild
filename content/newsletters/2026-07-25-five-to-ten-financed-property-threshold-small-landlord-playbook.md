@@ -1,0 +1,96 @@
+---
+title: "Before You Buy Property Number Five: The Fannie Mae 5-10 Lending Wall Most Independent Landlords Don't Realize Is Right in Front of Them"
+author: "Succession Editorial"
+date: 2026-07-25
+issue_type: "investor-playbook"
+summary: "Conventional financing rules change quietly at the fifth financed property. Most independent landlords do not realize the rules have moved until their sixth or seventh deal is in escrow and the lender suddenly requires six months of reserves on every property they own."
+description: "The Succession Daily Brief for July 25, 2026: what changes at the Fannie Mae 5-10 financed property threshold, why independent landlords hit the wall mid-portfolio, and a Pittsburgh working-class submarket where the next deal still pencils for owners scaling from four doors to ten."
+featured_image: ""
+---
+
+Most independent landlords who own four financed rental properties and are looking for the fifth one do not realize there is a threshold waiting for them. It is not on a poster at the lender's office. It does not show up in the buy-side marketing material. It does not arrive with a meeting. It appears in the loan estimate, after the offer is accepted and the appraisal is in, when the underwriter asks for six months of PITIA reserves on every property in your portfolio and not just the one you are buying. That is the moment the fifth deal gets harder than the fourth one, and almost no independent operator is prepared for it.
+
+This brief is the playbook for crossing that threshold deliberately, with the math already in front of you before you write the next offer. It is written for the independent landlord who has built a small portfolio the right way — one or two doors at a time, with conventional or DSCR financing, a clean rent roll, and no institutional backing — and who is looking at deals three through ten of their career. If that is you, the rules you have been underwriting under for your first four deals are about to change, and the change is not in your favor.
+
+## 1. What the 5-10 Financed Property Threshold Actually Is
+
+The threshold sits inside Fannie Mae's selling guide, not at a single point but across the multiple-financed-properties policy that governs loans from 5 to 10 financed properties on a single borrower. [Gustan Cho's 2026 summary of Fannie Mae's 5-10 financed properties guideline](https://gustancho.com/fannie-mae-5-10-financed-properties/) confirms the underlying rule: a borrower can hold up to 10 financed properties for second-home and investment purchases through Desktop Underwriter, with the 5-10 range subject to additional underwriting requirements that do not apply to properties one through four. The reserve requirement, specifically, jumps at this range. [GCA Mortgage's 2026 Fannie Mae 5-10 guideline summary](https://gcamortgage.com/fannie-mae-5-10-financed-properties-guidelines/) states the requirement plainly: borrowers in the 5-10 range must have six months of principal, interest, taxes, and insurance reserves on every property in the borrower's portfolio, not just the property being financed.
+
+This is where the math stops feeling incremental. For properties one through four, the conventional reserve requirement is typically two to six months PITIA on the subject property alone. For property five and beyond, the requirement expands to six months PITIA across every financed property you own. The change from "six months on this loan" to "six months on every loan" is the difference between $18,000 in liquid reserves and $80,000 or more in liquid reserves, depending on how leveraged you already are.
+
+The change is not unique to Fannie Mae. Freddie Mac's equivalent policy in the multiple-financed-properties space has historically tracked Fannie Mae's 5-10 reserve treatment, and conventional portfolio lenders — banks and credit unions that hold loans in-house rather than selling them to the GSEs — apply similar overlays on top of their own credit policy. The DSCR loan market, which has become the primary financing vehicle for small landlords who do not want to document personal income, sits outside this rule entirely, but with its own threshold effects at the 5-10 property range, including DSCR ratio recalculation across the portfolio rather than property-by-property.
+
+The point is this: the underwriting that closed deals one through four will not close deals five through ten under the same terms. The lender does not announce this when you submit your application. The underwriter's conditions letter tells you, after the appraisal is in.
+
+## 2. Why the Threshold Hits Independent Landlords Mid-Portfolio, Not at Acquisition
+
+Independent landlords tend to scale their portfolios in one of two patterns. The first pattern is the slow builder: one property every 18 to 36 months, financed conventionally or with a DSCR loan, with personal reserves growing alongside the portfolio. The second pattern is the deal-flow operator who acquires a property every 6 to 12 months once they have built operating systems, with reserves compounding as the rent rolls fill in. Both patterns hit the 5-property threshold inside a five-to-seven-year window for the slow builder and a three-to-five-year window for the deal-flow operator.
+
+The reason the threshold is a surprise is that no one in the deal-flow has an incentive to surface it early. Listing agents do not discuss it. Buyer-side brokers do not bring it up unless they specialize in 5-plus portfolios. The seller of the fifth property has no reason to tell you. Your current loan officer, who closed deals one through four, may or may not have flagged it during the most recent closing — most loan officers handle a portfolio's worth of files and may not surface the change in advance unless they are specifically watching the count.
+
+The threshold is also more expensive than it looks at first glance. Consider a slow-builder scenario: four financed properties with a combined PITIA of $7,400 per month. Six months of PITIA across the portfolio is $44,400 in liquid reserves required at the time of the fifth acquisition. The independent landlord who has been building reserves against single-property requirements ($4,200 for the subject property alone) now needs to add $40,200 to their qualifying cash to keep the same lender relationship. Most independent landlords do not have that much in a savings account at the time of the next acquisition. They have it spread across down payments, rehab reserves, operating accounts for each property, and tax reserves.
+
+The result is a deal that gets conditionally approved and then falls apart when the underwriter's conditions list comes back with the reserve calculation. The buyer has 10 to 15 days to source the gap. In a hot market, that gap is filled by liquidating an investment position, pulling from a HELOC on a personal residence, or accepting seller financing on part of the down payment. In a normal market, the deal gets delayed or terminated, and the buyer learns about the threshold by losing a property.
+
+## 3. What Changes Operationally at the Threshold
+
+The 5-10 financed property threshold is not only a reserve issue. Three operational shifts happen at the same time, and an independent landlord who understands them in advance can structure around each.
+
+The first shift is lender appetite. Portfolio lenders and community banks that financed properties one through four often become less enthusiastic at the 5-property mark, not because the deal is riskier but because the bank is now treating the borrower as a commercial relationship rather than a consumer relationship. A consumer relationship has standardized underwriting, fair-lending protections, and routine processing. A commercial relationship has its own credit policy, individual bank committee approval, and pricing that reflects the bank's portfolio concentration limits. The same loan officer who closed your first four deals may not have the authority to close your fifth.
+
+The second shift is DSCR treatment on rental income. For properties one through four, lenders typically calculate DSCR property-by-property, which lets a strong-performing property offset a weaker one when each loan is independently underwritten. At the 5-10 threshold, the lender often recalculates portfolio DSCR — total net rental income across all properties divided by total debt service — which surfaces any underperforming property in the book. A landlord whose fourth property has a 1.05 DSCR may find that property now weights against the entire portfolio's DSCR calculation, reducing the qualifying rental income on the new acquisition. The cure is to either stabilize the underperformer before the next acquisition or to accept that the new loan will price based on the portfolio DSCR rather than the strongest property.
+
+The third shift is rate. Conventional and DSCR lenders price based on risk tiers, and the 5-10 financed property tier sits in a higher pricing band than the 1-4 tier for most lenders. [Griffin Funding's 2026 DSCR lender comparison](https://griffinfunding.com/blog/mortgage/best-dscr-lenders-griffin-funding-vs-angel-oak-vs-kiavi-vs-visio-vs-lima-one/) documents the late-2025 to mid-2026 convergence of DSCR rates with conventional rates after loan-level price adjustments, but acknowledges that the 5-10 tier still carries overlay pricing that the 1-4 tier does not. A landlord who closed properties one through four at 6.45 percent should expect the fifth property at 6.75 to 7.10 percent, depending on the lender and the LTV.
+
+## 4. Where the Math Still Works: Brookline, Pittsburgh
+
+The independent landlord who is looking at the 5-property threshold and wondering whether to keep scaling should pick the next market based on the math, not the marketing. Pittsburgh's Brookline neighborhood, in the city's south hills, is the market where the math still works for a small landlord making the 4-to-5 jump in 2026.
+
+Brookline is a working-class neighborhood with a median sold price around $219,900 over the trailing 12 months, a median rent of $1,613 to $1,718 per month depending on the property type, a median days-on-market of 68, and a median recorded-sale cap rate of 5.7 to 6.2 percent. [DealScanner's live Brookline market data from June 2026](https://www.dealscanner.io/invest/brookline) and [becvio's 2026 Pittsburgh investor overview](https://becvio.com/markets/pittsburgh-pa) both describe the same submarket through slightly different lenses. The neighborhood is one step behind the gentrification curve that has already moved through Lawrenceville and Bloomfield, which means entry pricing still reflects working-class rents rather than early-gentrifier premiums.
+
+The macro context for Pittsburgh reinforces the submarket. [Marcus & Millichap's 2026 Pittsburgh multifamily investment forecast](https://www.marcusmillichap.com/research/market-report/pittsburgh/pittsburgh-2026-investment-forecast-multifamily-market-report) projects the metro to end 2026 with vacancy below 4 percent — only the fourth time in 25 years that has happened. [Northmarq's Q2 2026 Pittsburgh multifamily report](https://www.northmarq.com/insights/insights/rent-growth-persists-supply-pressure-eases-pittsburgh-multifamily-market-q2-2026) documents rent growth persisting as supply pressure eases, with new development constrained by Pittsburgh's hilly terrain, aging housing stock, and limited new-construction pipeline. The macro picture is constructive for small landlords because rent growth compounds against a low entry basis in submarkets like Brookline.
+
+The specific math on a fifth acquisition in Brookline: a duplex or small single-family at the median price of $219,900 with median rent of $1,650 across both units. Gross potential annual rent at $19,800. Operating expenses at the typical small-multifamily ratio of 35 to 40 percent of gross rents, including insurance, taxes, utilities, maintenance reserves, and management at 8 percent: $7,000 to $8,000 annually. Effective NOI at 92 percent physical occupancy: $11,816 to $12,936.
+
+Financing the fifth acquisition with a conventional loan at 75 percent LTV against the median Brookline price ($164,925 loan) at the 5-10 tier rate of approximately 6.85 percent on a 30-year fixed: monthly principal and interest of $1,082, annual debt service of $12,984. DSCR on the in-place NOI is approximately 0.95 to 1.00. That is the lender's minimum. The independent landlord's underwriting should target DSCR after the portfolio recalculation, which on a four-property portfolio averaging 1.25 DSCR plus this new property at 0.95 brings the portfolio to approximately 1.18. The deal works under conventional underwriting if the borrower's personal income supports the gap and the reserves are in place.
+
+The reason this is a fifth-property candidate rather than a first-property candidate is the breakeven profile. A first-time investor with no existing portfolio cannot access the 1-4 tier rate. They get the consumer rate, which on a similar loan would price 30 to 50 basis points higher. The fifth-property buyer who already has four properties at the 1-4 tier gets the 5-10 tier rate on this property only, but they also have a portfolio that diversifies single-property risk. A first-time investor underwriting a Brookline duplex on its own is taking a single-asset risk with no margin of error. A five-property operator adding a Brookline duplex is adding a submarket that responds to a different economic driver than the rest of their book.
+
+## 5. The Crossroads at Property Number Five
+
+The 5-property threshold is also a decision point. The independent landlord who crosses it has three structural options, and which one is right depends on the operator's goals, capital position, and tolerance for lender relationship complexity.
+
+The first option is to keep scaling on conventional or DSCR financing and accept the 5-10 tier pricing and reserve requirements. This works best for operators who are building toward institutional scale (fifty-plus doors over a decade) and who have the liquid reserves to handle the threshold without restructuring. The math works if the operator has the cash to clear six months PITIA on the portfolio at each subsequent acquisition.
+
+The second option is to pause scaling and consolidate. An operator at property number four who recognizes the threshold might choose to spend two to three years paying down the existing portfolio, building reserves to the 5-10 tier requirement, and then resuming acquisitions from a position of strength. The consolidation period improves portfolio DSCR, reduces lender exposure on each property, and gives the operator time to build the operating systems that will matter more at ten doors than they did at four. The cost of consolidation is two to three years of foregone acquisitions in a market where entry pricing is rising.
+
+The third option is to switch financing vehicles. An operator at property number four who is approaching the threshold can refinance the existing four properties into a portfolio loan — a single lender holding multiple properties under one umbrella — and acquire the fifth property through the same lender. [Baselane's 2026 rental portfolio loan guide](https://www.baselane.com/resources/guide-to-rental-portfolio-loals) and [Certain Lending's portfolio loan overview](https://www.certainlending.com/blog/one-loan-ten-doors-the-smarter-way-to-finance-rental-portfolios) describe the structure: one lender, multiple properties, one monthly payment, cross-collateralized assets. The portfolio loan removes the 5-10 conventional threshold entirely because the loans are not being sold to Fannie Mae or Freddie Mac. The cost is lender concentration risk and a rate that often prices 75 to 150 basis points above the equivalent conventional rate on the underlying properties.
+
+Each path is defensible. None is right for every operator. The mistake is crossing the threshold without knowing which path you are on.
+
+## Today's 5-Minute Action
+
+Before you write your next acquisition offer, run one number. It takes five minutes, and it determines whether your next deal is a 1-4 tier deal or a 5-10 tier deal.
+
+Step 1: Count your financed properties. Open your loan statements or your loan officer's portfolio summary. Count every property with an outstanding mortgage balance, including your primary residence if it has a mortgage. The number that matters is the count of properties that will appear on your next loan application under the "current financed properties" disclosure.
+
+Step 2: Calculate your current PITIA. For each financed property, multiply monthly principal and interest by twelve, plus annual property taxes divided by twelve, plus annual insurance divided by twelve. Add them up. That is your portfolio PITIA per month.
+
+Step 3: Multiply by six. That is your 5-10 tier reserve requirement at the time of your next acquisition, in liquid reserves that must be documented at application.
+
+Step 4: Compare to your actual liquid reserves. Cash in checking, savings, money market, and brokerage accounts that can be liquidated within five business days. Retirement accounts do not count unless they are accessible without penalty.
+
+Step 5: Decide. If your liquid reserves already exceed the 5-10 tier requirement, you can move forward without restructuring. If they do not, you have three months to a year to build the gap, and your next acquisition timeline needs to account for that gap. The mistake is finding out at the conditions stage, when the deal is in escrow and the gap is unfillable.
+
+The 5-property threshold is not a wall. It is a marker. The independent landlords who scale through it deliberately — by knowing the reserve requirement before the next offer, by choosing the right financing path, by picking the next market based on math rather than marketing — are the ones who reach property ten, fifteen, and twenty without a single failed escrow. The ones who cross it by accident are the ones who spend two years recovering from a deal that fell apart after the appraisal.
+
+---
+
+**Primary sources for this issue:**
+- [Gustan Cho's 2026 Fannie Mae 5-10 Financed Properties Guideline Summary](https://gustancho.com/fannie-mae-5-10-financed-properties/)
+- [GCA Mortgage's 2026 Fannie Mae 5-10 Reserve Requirement Summary](https://gcamortgage.com/fannie-mae-5-10-financed-properties-guidelines/)
+- [Griffin Funding's 2026 Best DSCR Lenders Comparison](https://griffinfunding.com/blog/mortgage/best-dscr-lenders-griffin-funding-vs-angel-oak-vs-kiavi-vs-visio-vs-lima-one/)
+- [Marcus & Millichap's 2026 Pittsburgh Multifamily Investment Forecast](https://www.marcusmillichap.com/research/market-report/pittsburgh/pittsburgh-2026-investment-forecast-multifamily-market-report)
+- [Northmarq's Q2 2026 Pittsburgh Multifamily Market Report](https://www.northmarq.com/insights/insights/rent-growth-persists-supply-pressure-eases-pittsburgh-multifamily-market-q2-2026)
+- [DealScanner's Brookline, Pittsburgh Live Investment Data (June 2026)](https://www.dealscanner.io/invest/brookline)
+- [Baselane's 2026 Rental Portfolio Loan Guide](https://www.baselane.com/resources/guide-to-rental-portfolio-loans)
