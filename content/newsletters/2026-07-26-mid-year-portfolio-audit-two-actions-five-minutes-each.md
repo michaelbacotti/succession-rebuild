@@ -1,0 +1,75 @@
+---
+title: "Your Insurance Policy Has Not Kept Up With Your Property's Value. Here Is the Five-Minute Check."
+author: "Succession Editorial"
+date: 2026-07-26
+issue_type: "one-action-five-minutes"
+summary: "Most independent landlords have not recalculated their insurance coverage limits since the year they bought their properties. In a market where replacement costs have moved 20 to 35 percent since 2020, a policy written three years ago may now leave a significant gap between what your insurance covers and what it would actually cost to rebuild."
+description: "The Succession Daily Brief for July 26, 2026: two five-minute actions for independent landlords at the midpoint of 2026 — verify your building insurance coverage limits and run a free county recorder check for suspicious deed filings on your properties."
+featured_image: ""
+---
+
+Two actions today. Each takes five minutes. Neither requires a contractor, a lawyer, or a portfolio manager. One protects your equity. The other protects your title. Both are overdue for most independent landlords who have not revisited them since their last renewal.
+
+This is the mid-year check you already know you should do. The reason it has not happened is the same reason most maintenance deferrals accumulate: there is no invoice arriving that says "you have not done this." So today, the invoice arrives in the form of this brief, and the action is smaller than you think.
+
+## Why Your Coverage Limits Probably Have a Gap
+
+Insurance policies on rental properties are typically written on one of two valuation bases. The first is actual cash value, which pays out the current market value of the building minus depreciation. The second is replacement cost value, which pays out whatever it costs to rebuild the structure to its current condition at current material and labor prices. Most landlord policies written in the last decade default to replacement cost value, which sounds like what you want. The problem is not the valuation basis. The problem is the coverage limit itself.
+
+Insurance companies set initial coverage limits based on estimated replacement costs at the time the policy is written. Those estimates use data from construction cost databases that are updated periodically, but the update cycle is not synchronized with the market. Between 2020 and 2026, construction costs in most U.S. metros moved 20 to 35 percent depending on the trade category and the region. Labor costs, framing lumber, and finishing materials all increased significantly through 2022 and have partially corrected since but remain well above 2020 levels. A policy written in 2021 at a replacement cost estimate of $280,000 for a 4-unit building may now carry a coverage limit that is $40,000 to $70,000 below what it would actually cost to rebuild that same building at current prices.
+
+The consequence of being underinsured is not a proportional payout reduction. Most policies contain a co-insurance clause that penalizes you for being underinsured by more than a small margin, often 80 or 90 percent of the policy's stated coverage-to-value ratio. If your policy requires you to carry 90 percent of the replacement value and you are carrying 80 percent, the insurer may apply a penalty formula to any claim that reduces your payout by more than the simple proportional difference. The worst case is a total loss on an underinsured property, where the gap between the coverage limit and the actual rebuild cost comes directly out of your pocket.
+
+The fix is not to panic and buy the most expensive policy. The fix is to run one number.
+
+## Action One: Calculate Your Current Rebuild Cost in Five Minutes
+
+The best free tool for this is the Marshall and Swift / CoreLogic square-foot cost calculator, but most independent landlords do not have access to that database directly. A reliable proxy is the insurance agent you already have a policy with. Call your agent or send them a direct message through their agency portal and ask this specific question: "What would it cost to rebuild my property at current construction costs, and does my current coverage limit reflect that number?"
+
+Before you call, run this calculation yourself. It takes three numbers you already have or can look up in 60 seconds:
+
+**Step one:** Find your property's gross living area. This is in your appraisal, your county assessor's record, or your home insurance renewal declaration page. For a 4-unit, two-story building, it is typically 3,200 to 4,400 square feet depending on unit mix.
+
+**Step two:** Look up your county's current construction cost per square foot. The National Association of Home Builders publishes quarterly per-square-foot framing and finishing cost data by metro and region at [nahb.org](https://www.nahb.org). For mid-2026, framing costs in most non-coastal metros run $140 to $190 per square foot for rental-grade construction. Finish costs add $40 to $80 per square foot depending on fixture grade. A rough working number for a standard-quality 4-unit in a Midwest or Southern market is $185 to $230 per square foot total.
+
+**Step three:** Multiply gross living area by your cost-per-square-foot estimate. A 3,600-square-foot building at $200 per square foot rebuild cost = $720,000. If your current policy limit is $580,000, you have a $140,000 gap.
+
+Call your agent with that number. Ask: "Can we schedule a replacement cost estimate review before my next renewal, and what would the annual premium difference be to carry the correct limit?" The agent has an incentive to write the higher coverage, but you also have the right to verify the math. Run the estimate yourself first so you are not dependent on the insurer's estimate alone.
+
+That is action one. Estimated time: five minutes to pull your property's square footage, look up a cost-per-square-foot number, and do the multiplication. Three minutes more to message your agent.
+
+## Why Your County Recorder Is Your Best Fraud Defense
+
+Deed fraud targeting rental property owners has been one of the more active fraud vectors in the independent landlord space since 2022, and the FBI's Internet Crime Complaint Center documented it specifically in [PSA260616](https://www.ic3.gov/PSA/2026/PSA260616) issued in June 2026. The scheme works by filing a forged deed in the county recorder's office, transferring your property to a fraudster's name or to an entity they control, and then either selling the property to an unsuspecting buyer or refinancing it with a new lender who relies on the fraudulent chain of title. The title insurance you bought at purchase does not automatically cover fraud that occurs after closing. The protection you need is active monitoring or a manual check, and the manual check is free.
+
+Every county recorder in the United States maintains a public search portal where you can look up the current owner of record for any property by address or parcel number. The search is free. The result tells you who the recorder's office currently shows as the owner. If that does not match your name or your LLC's name, something has gone wrong and you need to respond to it immediately.
+
+## Action Two: Run Your Property's Chain of Title in Five Minutes
+
+Go to your county recorder's website. Search for your property by address. Look at the most recent deed on file. Answer two questions:
+
+**Question one:** Does the current owner's name on the recorder's record match your actual ownership structure? If your property is owned by "Maple Street Holdings LLC" and the recorder shows "John Smith," that is a mismatch that needs to be corrected — it may mean a prior deed was filed incorrectly, or it may mean fraud has occurred.
+
+**Question two:** Is the most recent filing date consistent with your last transaction? If you bought the property in 2019 and the recorder shows a deed filing in 2024 that you did not initiate, that is an immediate red flag and you need to contact your county recorder's fraud division and your title insurance carrier the same day.
+
+The county recorder's website URL follows a predictable pattern: your county name followed by .gov or .us and then "/recorder" or "/assessor." For example, Hamilton County, Ohio's recorder is at [hamiltoncountyoa.gov/recorder](https://www.hamiltoncountyoa.gov/recorder). Travis County, Texas is at [traviscountytx.gov/actx](https://www.traviscountytx.gov/actx). If you are not sure of the exact URL, search "Travis County Texas property search" in your browser — the recorder or assessor portal is usually the first result.
+
+Repeat this for every property in your portfolio. It takes two to three minutes per property. The outcome you want is "current owner matches, last filing date is my purchase date." If that is what you find, you are done for this quarter. If you find a mismatch, the timeline to respond matters: fraud that is caught within 30 days of filing has a significantly higher recovery rate than fraud discovered six months later.
+
+## The Five-Minute Action Checklist for This Weekend
+
+Here is the exact sequence to run on your own:
+
+**Action one — verify insurance coverage:**
+1. Pull your property's gross living area from your county assessor's website or your policy declaration page.
+2. Multiply by $200 per square foot as a working replacement cost estimate (adjust up or down based on your market and finish quality).
+3. Compare the result to your current policy coverage limit.
+4. If the coverage limit is more than 10 percent below your estimate, message your insurance agent: "Please provide a current replacement cost estimate for [property address] and advise on whether my current limit is adequate."
+
+**Action two — check county recorder chain of title:**
+1. Go to your county recorder's website for each property.
+2. Search by property address.
+3. Confirm the current owner name matches your actual ownership entity.
+4. Confirm the most recent deed date matches your purchase date.
+
+If you own five properties, this entire process — both actions, all five properties — takes 25 to 30 minutes. It is the most productive half hour you will spend on your portfolio this quarter.
