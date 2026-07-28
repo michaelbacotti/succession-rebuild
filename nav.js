@@ -11,7 +11,7 @@
    ' <a href="/" class="top-wordmark">Succession Holding LLC</a>',
    ' <span class="top-tagline">Real estate insight for independent investors</span>',
    ' <div class="top-links">',
-   '  <a href="/contact" class="top-contact">Contact</a>',
+   '  <a href="/contact/" class="top-contact">Contact</a>',
    ' </div>',
    '</nav>'
   ].join('\n');
@@ -24,11 +24,11 @@
    '<div class="tab-bar">',
    ' <div class="tab-bar-inner">',
    '  <a href="/">Home</a>',
-   '  <a href="/investing">Investing</a>',
-   '  <a href="/market-analysis">Market Analysis</a>',
-   '  <a href="/education">Education</a>',
-   '  <a href="/newsletters">Daily Brief</a>',
-   '  <a href="/about">About</a>',
+   '  <a href="/investing/">Investing</a>',
+   '  <a href="/market-analysis/">Market Analysis</a>',
+   '  <a href="/education/">Education</a>',
+   '  <a href="/newsletters/">Daily Brief</a>',
+   '  <a href="/about/">About</a>',
    ' </div>',
    '</div>'
   ].join('\n');
