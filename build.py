@@ -46,6 +46,10 @@ def parse_frontmatter(md_text):
             continue
         k, v = line.split(":", 1)
         meta[k.strip()] = v.strip().strip('"').strip("'")
+    # Doctrine (2026-08-05): meta description must be ≤160 chars
+    # (Google truncates around 155-160). Trim if longer.
+    if meta.get("description") and len(meta["description"]) > 160:
+        meta["description"] = meta["description"][:160]
     return meta, body
 
 # ─── MD → HTML (limited subset for newsletters) ────────────────────────────────
