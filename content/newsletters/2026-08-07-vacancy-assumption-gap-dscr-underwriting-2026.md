@@ -54,6 +54,8 @@ DSCR: $93,600 / $70,236 = 1.33
 
 At this vacancy level, the property still covers debt service, but the margin for error is thin. Repairs go deferred. A major tenant leaves. The insurance premium jumps 15 percent after a weather claim. Any one of those events can push the DSCR below 1.0, and at that point most DSCR loans have a cash management sweep provision that begins redirecting rental income into a reserve account.
 
+The cash management sweep is where the vacancy assumption gap becomes a liquidity problem, not just an accounting one. When a DSCR loan triggers the sweep provision, the lender begins pulling rental income into a restricted account and will release funds only after the borrower demonstrates sustained occupancy and DSCR above the trigger threshold. For a small landlord with no staff and no credit line to bridge the gap, a triggered sweep can create a cash flow crisis that forces a property sale at the worst possible time — when the market vacancy is already elevated and the pool of buyers has thinned.
+
 The pattern is consistent across markets: the gap between a lender's standardized vacancy assumption and the actual market vacancy rate compounds over time. In a rising vacancy environment, which is what the Census Bureau data has been signaling for the past three quarters, deals underwritten to below-market vacancy assumptions age badly.
 
 ## Section 2: One Market, One Metric — Phoenix Vacancy Rate, 10.4 Percent in Q2 2026
