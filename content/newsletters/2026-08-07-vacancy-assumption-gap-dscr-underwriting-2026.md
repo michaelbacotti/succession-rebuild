@@ -1,0 +1,81 @@
+---
+title: "The Vacancy Assumption Gap: Why Your DSCR Underwriting Probably Uses the Wrong Number"
+author: "Succession Editorial"
+date: 2026-08-07
+issue_type: "underwriting-habit"
+summary: "Most DSCR lenders underwrite to a 5 percent vacancy rate regardless of your actual market. The Census Bureau Q2 2026 data puts the national rental vacancy rate at 7.3 percent. The gap between what your lender assumes and what is actually happening in your submarket is the difference between a deal that pencils and one that does not."
+description: "The Succession Daily Brief for August 7, 2026: how DSCR lenders use a standardized vacancy assumption that diverges from actual Census Bureau data, what the Q2 2026 national vacancy rate of 7.3 percent means for your pro forma, and the specific habit of pulling real vacancy data for your metro before you sign."
+featured_image: ""
+---
+
+When you sign a DSCR loan application, somewhere in the lender's intake system a number is entered that will determine whether your deal gets approved and at what loan amount. That number is the vacancy rate assumption. Most small landlords never see it explicitly. It is baked into the income approach in the appraisal, embedded in the DSCR calculation, and never explicitly called out in the term sheet. And it is almost always wrong for the specific market you are buying into.
+
+The [Census Bureau reported on July 28, 2026](https://fred.stlouisfed.org/series/RRVRUSQ156N) that the national rental vacancy rate in Q2 2026 was 7.3 percent. That figure has been trending upward from the cycle low of roughly 6.0 percent in 2021, and it masks a sharp geographic split: supply-constrained Midwest metros are running at 5 to 6 percent vacancy while Sun Belt metros with heavy recent construction are posting 10 to 12 percent. Most DSCR lenders use a standardized 5 to 10 percent assumption that is neither market-specific nor dynamic. For an independent investor who owns or is buying into a specific submarket, that assumption gap is worth understanding before you sign.
+
+This brief is the underwriting habit. It explains why the vacancy assumption matters so much to your DSCR calculation, shows what the lender's standard number actually implies about your deal's durability, demonstrates how to pull your actual market data from the Census Bureau, and gives the specific calculation to run this morning before you sign your next DSCR application.
+
+## Section 1: Today's Lens — Why the Vacancy Assumption Is the Most Dangerous Number in Your DSCR Calculation
+
+The DSCR formula is straightforward: Net Operating Income divided by annual debt service. NOI is gross rental income minus operating expenses and vacancy. The vacancy line item is the adjustable variable that most small investors treat as fixed, and it is the one that turns out to vary most by market and over time.
+
+Most DSCR lenders apply a flat vacancy assumption during underwriting. The figure varies by lender, but the most common range cited across broker surveys and lender guideline documents is 5 to 10 percent of gross potential rental income. CoreInsights Review documented in April 2026 that lenders stress-test NOI by increasing vacancy rates, inflating operating costs, and reducing rent growth assumptions as part of their standard underwriting sensitivity analysis. The lender is building in a cushion, but that cushion is calibrated to a national average or to the lender's portfolio experience, not to the specific submarket where your property sits.
+
+Here is what that looks like in practice on a real deal profile.
+
+A small landlord is evaluating a purchase of a 12-unit building in a mid-size Southern metro. Gross potential rental income at full occupancy is $144,000 annually, or $12,000 per month. Operating expenses, not including debt service, are $28,800 per year. The asking price implies a cap rate of 6.2 percent at current occupancy.
+
+The lender inputs a 5 percent vacancy assumption. The calculation goes like this:
+
+Effective gross income: $144,000 minus 5 percent vacancy = $136,800
+Less operating expenses: $28,800
+NOI: $108,000
+Annual debt service at 6.75 percent on a $900,000 loan: $70,236
+DSCR: $108,000 / $70,236 = 1.54
+
+That is a comfortable DSCR. The deal looks good. The independent investor makes an offer.
+
+But the Census Bureau Q2 2026 data, combined with Apartment List and Redfin market reports for comparable Southern metros, puts the actual vacancy rate in that submarket at 9.5 percent. The lender's 5 percent assumption is off by 4.5 percentage points.
+
+Now rerun the pro forma with the actual vacancy rate:
+
+Effective gross income at 9.5 percent vacancy: $144,000 minus 9.5 percent = $130,320
+Less operating expenses: $28,800
+NOI: $101,520
+DSCR at same debt service: $101,520 / $70,236 = 1.45
+
+Still above 1.0, still above most lenders' minimum floor. But the loan amount was sized to a 1.54 DSCR, and now the cash flow cushion has narrowed. If the property experiences a vacancy spike to 15 percent in year two — entirely realistic in a Sun Belt submarket with heavy new supply delivering next door — the NOI drops to $93,600 and the DSCR falls to 1.33. That is the deal getting uncomfortable, not the deal failing.
+
+Now run the stress scenario at 15 percent vacancy that lenders themselves use in their own sensitivity analysis:
+
+Effective gross income at 15 percent vacancy: $144,000 minus 15 percent = $122,400
+Less operating expenses: $28,800
+NOI: $93,600
+DSCR: $93,600 / $70,236 = 1.33
+
+At this vacancy level, the property still covers debt service, but the margin for error is thin. Repairs go deferred. A major tenant leaves. The insurance premium jumps 15 percent after a weather claim. Any one of those events can push the DSCR below 1.0, and at that point most DSCR loans have a cash management sweep provision that begins redirecting rental income into a reserve account.
+
+The pattern is consistent across markets: the gap between a lender's standardized vacancy assumption and the actual market vacancy rate compounds over time. In a rising vacancy environment, which is what the Census Bureau data has been signaling for the past three quarters, deals underwritten to below-market vacancy assumptions age badly.
+
+## Section 2: One Market, One Metric — Phoenix Vacancy Rate, 10.4 Percent in Q2 2026
+
+The metro we are watching this week for vacancy pressure is [Phoenix, Arizona](https://www.census.gov/housing/hvs/data/rates.html).
+
+Phoenix is a Sun Belt market that received a significant volume of multifamily construction completions in 2024 and 2025, and the Census Bureau's Q2 2026 rental vacancy rate for the Phoenix MSA sits at approximately 10.4 percent, well above the national average of 7.3 percent and among the highest of any large Western metro. Redfin's mid-2026 market reports confirm elevated vacancy in the Phoenix metro relative to 2023 levels, driven by new supply deliveries in the East Valley submarkets.
+
+The implication for an independent investor underwriting a Phoenix acquisition: the lender's 5 percent vacancy assumption understates the real vacancy environment by more than 5 percentage points. On a $1.2 million apartment building with gross potential income of $144,000, that 5.4-point gap in vacancy translates to $7,776 in lost annual income that is not being captured in the pro forma the lender used to size the loan.
+
+Compare that to Indianapolis, where Q2 2026 Census data puts the metro vacancy rate at approximately 5.2 percent — below the national average and consistent with a supply-constrained midwestern market. An identical building in Indianapolis underwritten with a 5 percent vacancy assumption is actually slightly overstating vacancy. The deal pencils more conservatively than it appears.
+
+The regional spread between Phoenix and Indianapolis is not a temporary phenomenon. It reflects the construction pipeline: Phoenix permitted and delivered more units per capita over the past three years than almost any other large metro, while Indianapolis permitted at roughly one-third the rate. The investor who understands which environment their property sits in can adjust their pro forma accordingly.
+
+## Today's 5-Minute Action
+
+Pull your last DSCR appraisal or your most recent loan estimate. Find the vacancy rate used in the income approach. Then cross-reference it against your actual market.
+
+Step 1: Go to [Census Bureau Housing Vacancy Survey Q2 2026 rental vacancy rates by MSA](https://www.census.gov/housing/hvs/data/rates.html) and look up your metro. The table is labeled Table 4 and is updated quarterly.
+
+Step 2: If your metro is not individually listed, use your Census region as the proxy. Q2 2026 Census data puts Midwest rental vacancy at 6.7 percent and South vacancy at 8.5 percent nationally, compared to a national average of 7.3 percent.
+
+Step 3: If the Census vacancy rate for your market is more than 2 percentage points above your lender's assumption, rebuild your pro forma with the higher number. Specifically, multiply your gross potential rental income by (1 minus the Census vacancy rate) to get effective gross income, then run your DSCR calculation. If the result is still above 1.15, the deal has a real cushion. If it drops below 1.0, you need to renegotiate the purchase price or the loan structure.
+
+The lender's 5 percent vacancy assumption is a starting point, not a destination. The Census Bureau publishes the actual figure every quarter. It takes five minutes to look up. That five minutes is the habit.
