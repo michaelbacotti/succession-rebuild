@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Commercial Real Estate Maturity Wall: What It Means for the Independent Landlord's Deal Flow and Exit Timing"
-date: "August 17, 2026"
+date: "2026-08-17"
 summary: "Maturing commercial real estate loans hit a record high in 2025-2026, creating both distressed selling opportunities and refinancing risk for small portfolio owners. Here is how to read the signal without hyping it."
 author: "Succession Editorial"
 issue_type: "market-signal"
