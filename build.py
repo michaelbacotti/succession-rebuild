@@ -205,7 +205,7 @@ def render_issue_page(meta, body_html, slug, date_str):
    "image": "{DOMAIN}/og-image.jpg"
   }}
  </script>
- <!-- Google tag (gtag.js) — GA4 (shared BacottiBot property) -->
+ <!-- Google tag (gtag.js) — GA4 -->
  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S6Y52LHEX1"></script>
  <script>
   window.dataLayer = window.dataLayer || [];
